@@ -1,0 +1,101 @@
+.appName{
+color: white; 
+text-align: center;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+    color:white;
+    }
+
+    th, td {
+    text-align: center;
+    padding: 16px;
+    }
+a {
+
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #03e9f4;
+  font-size: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right:5px;
+  letter-spacing: 4px;
+}
+
+a:hover {
+  background: #03e9f4;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #03e9f4,
+              0 0 25px #03e9f4,
+              0 0 50px #03e9f4,
+              0 0 100px #03e9f4;
+}
+ul {
+    list-style-type: none;
+   /* margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: transparent;
+    border-box:0;
+    */}
+    /* li {
+    float: left;
+    }
+*/
+    li a {
+
+  position: relative;
+  display: inline-block;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 12px;
+  text-decoration: none;
+  text-transform: uppercase;
+  overflow: hidden;
+  transition: .5s;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right:5px;
+  letter-spacing: 4px;
+}
+
+    li a:hover {
+  background: #03e9f4;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #03e9f4,
+              0 0 25px #03e9f4,
+              0 0 50px #03e9f4,
+              0 0 100px #03e9f4;
+    }
+    .active {
+    background: #03e9f4;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 2px #03e9f4,
+              0 0 4px #03e9f4,
+              0 0 8px #03e9f4,
+              0 0 16px #03e9f4;
+    /*color: white;
+    text-shadow: 1px 1px 2px black, 0 0 10px #03e9f4, 0 0 25px #03e9f4, 0 0 50px #03e9f4*/
+    }
+    .navbar {
+    background-color: none;
+    border: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    position: relative;
+    
+}
+
