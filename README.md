@@ -1,3 +1,3 @@
-#LARS
+## LARS
 (Leave and Attendance System) 
-Final Year Project using PHP
+* Final Year Project using PHP
