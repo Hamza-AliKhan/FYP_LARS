@@ -27,7 +27,7 @@ include 'checkTypeAD.php';
   <li><a href="admin/RegisterNew.php">Register New Employee</a></li>
   <li><a href="admin/Accept_Reject_Leave.php">Accept / Reject Leave</a></li>
   <li><a href="admin/Total_Records.php">Total Attendance / Leave</a></li>
-  <li><a href="admin/Update_Delete_Records.php">Update / Delete Records</a></li>
+  <li><a href="admin/Update_Delete_Accounts.php">Update / Delete Accounts</a></li>
   <li style="float:right"><a href="logout.php?redirect=index.php">Logout</a></li>
 </ul>
     
@@ -45,7 +45,7 @@ include 'checkTypeAD.php';
         </tr>
         <tr>
         <td><a href="admin\Total_Records.php">Total Attendance / Leave</a></td>       
-        <td><a href="admin\Update_Delete_Records.php">Update / Delete Records</a></td>
+        <td><a href="admin\Update_Delete_Accounts.php">Update / Delete Accounts</a></td>
         </tr>    
     </table>
      

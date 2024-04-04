@@ -27,14 +27,14 @@ $conn = mysqli_connect("localhost", "root", "", "lars_database");
             // Display the alert box
             $_SESSION['login_error_msg'] ='<script>alert("Congrats! -- Account Updated Successfully.")</script>';
             // Redirect to the previous page
-            header('Location: http://localhost/FYP_LARS/admin/Update_Delete_Records.php');
+            header('Location: http://localhost/FYP_LARS/admin/Update_Delete_Accounts.php');
             
             }else{
             	
             // Display the alert box
             $_SESSION['login_error_msg'] ='<script>alert("Error! -- Account Could-not be Updated. Try Again !!")</script>';
             // Redirect to the previous page
-            header('Location: http://localhost/FYP_LARS/admin/Update_Delete_Records.php');
+            header('Location: http://localhost/FYP_LARS/admin/Update_Delete_Accounts.php');
             }
             $conn->close();
         

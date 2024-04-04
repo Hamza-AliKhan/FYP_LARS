@@ -17,7 +17,7 @@ require_once '../checkTypeAD.php';
   <li><a class="active" href="RegisterNew.php">Register New Employee</a></li>
   <li><a href="Accept_Reject_Leave.php">Accept / Reject Leave</a></li>
   <li><a href="Total_Records.php">Total Attendance / Leave</a></li>
-  <li><a href="Update_Delete_Records.php">Update / Delete Records</a></li>
+  <li><a href="Update_Delete_Accounts.php">Update / Delete Accounts</a></li>
   <li style="float:right"><a href="logout.php?redirect=index.php">Logout</a></li>
 </ul>
 
