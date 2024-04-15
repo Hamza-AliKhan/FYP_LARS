@@ -2,11 +2,11 @@
  
 * **LARS** (Leave and Attendance System) is a Web Application developed in PHP to  manage attendance and leave records. 
 ## FEATURES :-
-1. ## Admin
+## Admin
 * -- Register New Employee
 * -- Update / Delete Accounts
 * -- Accept / Reject Leave Requests
-2. ## Employee
+## Employee
 * -- Time In / Out
 * -- Add / View Attendance Records
 * -- Add / View Leave Records
