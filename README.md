@@ -8,7 +8,7 @@
 * -- Add Attendance Records
 * -- View Attendance Records
 * -- View Leave Records
-* -- View Employee Details
+* -- View
 
 ## Requirements
 * [XAMPP](https://www.apachefriends.org/download.html) for Local Server & to Manage Database **OR** use **MySQL**
