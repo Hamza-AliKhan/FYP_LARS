@@ -5,7 +5,7 @@
 * -- Register New Employee
 * -- Update/Delete Accounts
 * -- Accept/Reject Leave Requests
-* -- Add
+* -- Add Attendance Records
 * -- View Attendance Records
 * -- View Leave Records
 * -- View Employee Details
