@@ -4,12 +4,14 @@
 * It provides features like
 * **Admin**
 * -- Register New Employee
-* -- Update/Delete Accounts
-* -- Accept/Reject Leave Requests
+* -- Update / Delete Accounts
+* -- Accept / Reject Leave Requests
 * **Employee**
-* -- Add Attendance Records
-* -- View Attendance Records
-* -- View Leave Records
+* -- Time In / Out
+* -- Add / View Attendance Records
+* -- Add / View Leave Records
+* -- Update User Profile
+* -- View Total Leaves
 
 ## Requirements
 * [XAMPP](https://www.apachefriends.org/download.html) for Local Server & to Manage Database **OR** use **MySQL**
