@@ -1,0 +1,17 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "eslint.codeActionsOnSave.rules": null,
+    "[javascript]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "php.validate.executablePath": "c:/php/php.exe",
+    "liveServer.settings.CustomBrowser": "microsoft-edge",
+    "liveServer.settings.useLocalIp": false,
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.multiRootWorkspaceName": "FYP_LARS",
+  }
+  
